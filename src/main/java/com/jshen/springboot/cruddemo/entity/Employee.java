@@ -34,7 +34,7 @@ public class Employee {
     }
 
 
-    //defind setter/getter
+    //define setter/getter
 
     public int getId() {
         return id;
